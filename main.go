@@ -19,6 +19,7 @@ func main() {
 		installCmd,
 		newCmd,
 		initCmd,
+		vendorCommand,
 	}
 
 	app.Run(os.Args)
